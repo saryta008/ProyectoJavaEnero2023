@@ -15,6 +15,9 @@ public class EjemploJava2023 {
 			suma=suma+n;
 		}
 		System.out.println(suma);
+	    System.out.println(“>Epi: ¡Hola Blas!”);  
+	    System.out.println((“>Epi: ¡Hola Blas!\n>Blas: ¡Hola Epi!\n”);
+
 	}
 
 }
